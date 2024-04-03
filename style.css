@@ -1,0 +1,111 @@
+html {
+    background-image: url('hatter_vegso.png');
+    
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-attachment: fixed;
+    
+    
+}
+
+.logo {
+    width: 325px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+.programok {
+    
+
+}
+    
+.programok:hover {
+    background-size: 120%;
+}
+   
+
+.rolunk {
+ 
+    float: right;
+   
+}
+
+.felso {
+    padding-top: 15px;
+}
+
+.rolunkinfo {
+    color: white;
+    background-color: #332211;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 50%;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+
+}
+    
+
+.programkeret {
+        color: white;
+        background-color: #332211;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+        width: 50%;
+        border-radius: 15px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+         
+}
+
+.rolunkkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.programkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hm {
+    color: #332211;
+}
+
+.datum {
+    text-align: center;
+
+}
+
+.koord {
+    text-align: center;
+}
+
+.galeria {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+/* Ember hol vagyok?! */
